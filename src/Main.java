@@ -48,7 +48,7 @@ i++;
         }
         else
         System.out.println("I can't believe it! You have defeated me!");
-        System.out.println("You have made " + i + " guesses");
+        System.out.println("You have made " + i + " guesses ");
     }
 
 
